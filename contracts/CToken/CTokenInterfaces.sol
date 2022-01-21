@@ -1,8 +1,8 @@
 pragma solidity ^0.5.16;
 
-import "./ComptrollerInterface.sol";
-import "./InterestRateModel.sol";
-import "./EIP20NonStandardInterface.sol";
+import "../Comptroller/ComptrollerInterface.sol";
+import "../InterestRateModel/InterestRateModel.sol";
+import "../EIP20NonStandardInterface.sol";
 
 contract CTokenStorage {
     /**

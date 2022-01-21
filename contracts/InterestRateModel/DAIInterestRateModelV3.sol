@@ -1,7 +1,7 @@
 pragma solidity ^0.5.16;
 
 import "./JumpRateModelV2.sol";
-import "./SafeMath.sol";
+import "../SafeMath.sol";
 
 /**
   * @title Compound's DAIInterestRateModel Contract (version 3)

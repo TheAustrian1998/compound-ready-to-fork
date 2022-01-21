@@ -1,6 +1,6 @@
 pragma solidity ^0.5.16;
 
-import "./CEther.sol";
+import "./CToken/CEther.sol";
 
 /**
  * @title Compound's Maximillion Contract
